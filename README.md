@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @moteaz
-- 👀 I’m interested in fullstack web development, tech innovation, and building modern apps with great user experience.
-- 🌱 I’m currently learning Next.js (App Router), PostgreSQL, and advanced backend development with Node.js and Express and probleme solving.
-- 💞️ I’m looking to collaborate on open-source projects related to productivity tools.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/moteaz-halleb) | Email: mootazhalleb@gmail.com 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m passionate about bridging the gap between UI design and backend performance — and I love solving real-world problems through clean, maintainable code.
+
